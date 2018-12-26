@@ -1,9 +1,8 @@
 
 import face_recognition
 from scipy.spatial import distance
-import os, shutil
+import shutil
 
-import cv2
 
 def main():
     path = "/Users/selinersev/Desktop/orl_faces/"
