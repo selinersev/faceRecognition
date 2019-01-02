@@ -2,7 +2,7 @@ import face_recognition
 import cv2
 
 def main():
-    path = "/Users/selinersev/Desktop/SeniorProject/portrait_dataset/"
+    path = "/Users/selinersev/Desktop/SeniorProject/group_dataset/"
 
     for i in range(1,11):
         img_path = str(path)+str(i)+'.png'
